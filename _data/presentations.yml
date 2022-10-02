@@ -1,0 +1,11 @@
+- presentation:
+    title: On maps preserving Lie products equal to a rank-one nilpotent 
+    event: UIC Undergraduate Mathematics Symposium
+    date: 11/2019
+#    comment: This is some comment text that can do _Markdown_
+#    slides: https://www.google.com # potential link to slides
+#    hub: example-hub # potential hub page to link to
+- presentation:
+    title: Studying Spatial Navigation of 3D Virtual Environments
+    event: Capital of Texas Undergraduate Research Conference at UT Austin
+    date: 11/2018
