@@ -1,5 +1,5 @@
 # Site Settings
-baseurl: "/Grape-Academic-Theme"
+baseurl: "/Ricardo-Velasquez"
 
 # Features Setting
 # Turn subpages on or off
@@ -11,26 +11,25 @@ blog: True
 lang: en
 
 # Search engine optimization settings
-title: Grape Academic Theme
-tagline: A jekyll theme for academic portfolios
-description: The demonstration page for the Grape Academic Theme, a jekyll theme for academic portfolios based on the Grape Theme.
-author: Christoph Jabs (chrjabs)
+title: Ricardo Velasquez
+tagline: Ricardo's Personal Site
+description: Ricardo's Personal Site
+author: Ricardo Velasquez (rjvz)
 twitter:
-  username: chrjabs
-  card: A jekyll theme for academic portfolios
+  username: rjvz
+  card: Ricardo's Personal Site
 logo: /assets/img/smile.png
 social:
-  name: Christoph Jabs
+  name: Ricardo Velasquez
   links:
-    - https://twitter.com/chrjabs
-    - https://github.com/chrjabs
+    - https://github.com/rjvz
 locale: en_GB
 
 # Page Settings
 theme_settings:
   title: Grape Academic Theme
 
-  experience_title: EXPERIENCE
+  experience_title: EXPERIENCE AND EDUCATION
   interests_title: RESEARCH INTERESTS
   skills_title: SKILLS
   awards_title: AWARDS

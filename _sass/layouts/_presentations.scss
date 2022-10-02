@@ -15,6 +15,9 @@
         margin-bottom: 30px;
     }
     ol.presentations-list{
+        border-top: 1px solid $divider-color;
+        padding-top: 1rem;
+        margin-top: 2rem;
         list-style-type: none;
         li {
             font-size: 1.05rem;

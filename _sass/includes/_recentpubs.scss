@@ -1,6 +1,7 @@
 #recentpubs {
   position: relative;
   overflow: hidden;
+  background-color: $recent-pub-bg;
   .recentpubs-wrap {
     @extend %page-padding;
     padding-top: 50px!important;
