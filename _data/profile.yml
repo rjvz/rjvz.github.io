@@ -1,11 +1,11 @@
 image: assets/img/Ricardo.jpg
 username: Ricardo Velasquez
-description: Computer Science Ph.D. at Georgia Institute of Technology under the supervision of <a href="https://f-t-s.github.io/">Florian Schaefer</a>.
+description: Master's in Computer Science with Concentration in Machine Learning. Academic experience in computational mathematics - specifically dimensionality reduction, such as non-negative matrix factorization and coupled tensor matrix factorization,  with applications to unsupervised learning and data analysis. Professional experience as a full-stack software developer and team lead. 
 webpage: https://rjvz.github.io
 experience: # Remove for hiding the experience section
   - start: 2022-08
-    end: Present
-    experience : CS Ph.D. at Georgia Institute of Technology
+    end: 2024-07
+    experience : M.S. in Computer Science at Georgia Institute of Technology - Graduate Research and Teaching Assistant
   - start: 2021-05
     end: 2022-06
     experience : Team Lead at Epic Systems Corporation
@@ -18,17 +18,15 @@ experience: # Remove for hiding the experience section
   - start: 2017-08
     end: 2020-05
     experience : BS in Computer Science University of Texas at Austin
-interests: # Remove for hiding the interests section
-  - Optimization
-  - Statistical Inference
-  - Numerical Linear Algebra
+#interests: # Remove for hiding the interests section
+ #-
 skills: # Remove for hiding the skills section
   - skill: Latex
     value: 90  # Percent value
   - skill: Mumps
-    value: 75
+    value: 80
   - skill: C# / .Net
-    value: 70
+    value: 80
   - skill: C / C++
     value: 65  # Percent value
   - skill: Python
