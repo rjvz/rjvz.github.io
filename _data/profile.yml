@@ -23,14 +23,16 @@ experience: # Remove for hiding the experience section
 skills: # Remove for hiding the skills section
   - skill: Latex
     value: 90  # Percent value
+  - skill: Python
+    value: 85  # Percent value
+  - skill: HTML / CSS
+    value: 80  # Percent value
   - skill: Mumps
-    value: 80
+    value: 75
   - skill: C# / .Net
-    value: 80
+    value: 75
   - skill: C / C++
     value: 65  # Percent value
-  - skill: Python
-    value: 60  # Percent value
   - skill: Julia
     value: 60  # Percent value
 social:
